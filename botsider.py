@@ -11,7 +11,7 @@ from datetime import datetime
 import time,random,sys,json,codecs,threading,glob,re,os,subprocess
 
 cl = LINETCR.LINE() #Luffy
-cl.login(token='ISI TOKEN KAMU')
+cl.login(token='EoY5TkcVM0PFSzsSZQO3.k5hBQflF4kmSr36CiKtV0W.40bkcdfy17a1IVtX7T34VWHFDD5Srnzlod/TBa/AOM0=')
 cl.loginResult()
 
 print "login Bot Ferians Succes"
